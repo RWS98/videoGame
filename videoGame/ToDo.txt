@@ -1,0 +1,3 @@
+create student class
+create faculty class
+create building class
